@@ -1,2 +1,2 @@
-#python-execises
+# python-execises
 This file contains some simple codes programmed in Python.
